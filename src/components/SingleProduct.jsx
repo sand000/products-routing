@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import { Link, useParams } from "react-router-dom";
 
 function getData(id){
-    return fetch("http://localhost:3000/products/"+id).then((res)=>res.json())
+    return fetch("http://localhost:3000/product/"+id).then((res)=>res.json())
 };
 
 export default function SingleProduct(){

@@ -1,0 +1,28 @@
+{
+  "product": [
+    {
+      "name": "SmartPhone",
+      "price": 30,
+      "id": 0,
+      "avatar": "https://images.samsung.com/is/image/samsung/p6pim/in/sm-e135flbdins/gallery/in-galaxy%C2%A0f13-sm-e135flbdins-532860868?$720_576_PNG$"
+    },
+    {
+      "name": "Watch",
+      "price": 20,
+      "id": 1,
+      "avatar": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1632232734/Croma%20Assets/Wearable/Wearable%20Devices/Images/243588_gi3krb.png/mxw_2048,f_auto"
+    },
+    {
+      "name": "Shirt",
+      "price": 50,
+      "id": 2,
+      "avatar": "https://assets.ajio.com/medias/sys_master/root/20220513/AhGv/627e22c9f997dd03e2b9a400/-473Wx593H-461653441-maroon-MODEL.jpg"
+    },
+    {
+      "name": "Pants",
+      "price": 100,
+      "id": 3,
+      "avatar": "https://contents.mediadecathlon.com/p298273/903dab52b22837178f3f9fc9bfa5dfd7/p298273.jpg?format=auto&quality=70&f=768x0"
+    }
+  ]
+}
